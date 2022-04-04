@@ -18,8 +18,11 @@ MATLAB versions of these demos are available at https://github.com/dynamicslab/d
 
 Please cite this book when using this code/data. 
 
+Book in PDF: http://databookuw.com/databook.pdf
+
 
 # Running the IPython notebooks on Colab
 
 Chapter 1:
-  * https://colab.research.google.com/github/ml-ninja/Data_Driven_Science_Python_Demos/blob/master/CH01/CH01_SEC02.ipynb
+  * [CH01_SEC02.ipynb](https://colab.research.google.com/github/ml-ninja/Data_Driven_Science_Python_Demos/blob/master/CH01/CH01_SEC02.ipynb)
+  
