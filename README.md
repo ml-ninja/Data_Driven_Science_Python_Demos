@@ -17,3 +17,9 @@ Python code library by Daniel Dylewsky. There are a few items that are only avai
 MATLAB versions of these demos are available at https://github.com/dynamicslab/databook_matlab
 
 Please cite this book when using this code/data. 
+
+
+# Running the IPython notebooks on Colab
+
+Chapter 1:
+  * https://colab.research.google.com/github/ml-ninja/Data_Driven_Science_Python_Demos/blob/master/CH01/CH01_SEC02.ipynb
