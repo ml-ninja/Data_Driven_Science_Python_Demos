@@ -26,7 +26,6 @@ Book in PDF: http://databookuw.com/databook.pdf
 Chapter 1:
   * [CH01_SEC02.ipynb](https://colab.research.google.com/github/ml-ninja/Data_Driven_Science_Python_Demos/blob/master/CH01/CH01_SEC02.ipynb)
   * [CH01_SEC03_Rotation.ipynb](https://colab.research.google.com/github/ml-ninja/Data_Driven_Science_Python_Demos/blob/master/CH01/CH01_SEC03_Rotation.ipynb)
+  * [CH01_SEC04_1_Linear.ipynb](https://colab.research.google.com/github/ml-ninja/Data_Driven_Science_Python_Demos/blob/master/CH01/CH01_SEC04_1_Linear.ipynb)
 
 
-
-  
