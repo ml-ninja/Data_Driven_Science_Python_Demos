@@ -33,5 +33,6 @@ Chapter 1:
   * [CH01_SEC05_2_OvarianCancer.ipynb](https://colab.research.google.com/github/ml-ninja/Data_Driven_Science_Python_Demos/blob/master/CH01/CH01_SEC05_2_OvarianCancer.ipynb)
   * [CH01_SEC06_1.ipynb](https://colab.research.google.com/github/ml-ninja/Data_Driven_Science_Python_Demos/blob/master/CH01/CH01_SEC06_1.ipynb)
   * [CH01_SEC06_2_3_4.ipynb](https://colab.research.google.com/github/ml-ninja/Data_Driven_Science_Python_Demos/blob/master/CH01/CH01_SEC06_2_3_4.ipynb)
+  * [CH01_SEC07_1.ipynb](https://colab.research.google.com/github/ml-ninja/Data_Driven_Science_Python_Demos/blob/master/CH01/CH01_SEC07_1.ipynb)
 
 
